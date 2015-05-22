@@ -1,0 +1,10 @@
+Step1 : Identify & extract the number of projetcs from Github for which the         commit related information are available in SO with corresponding time.
+
+Step2 : Extract the users related to the extended projetcs.
+
+Step3 : Identify the posts in SO related to the extracted project. ????
+
+Step4 : Try to build the relatioship b/w the SO & GitHub based on different         parameters.
+
+Step5 : These parameters are useful into the development of extracted projects.
+ 
