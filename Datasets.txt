@@ -1,2 +1,6 @@
 Android : 
 python : https://bugs.python.org/issue?@action=export_csv&@columns=id,activity,title,creator,assignee,status,type,message_count&@sort=-activity&@filter=status&@pagesize=50&@startwith=0&status=1,3
+
+Apache
+mozilla
+SO data dump
